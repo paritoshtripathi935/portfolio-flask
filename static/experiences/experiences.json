@@ -1,0 +1,52 @@
+{
+  "experiences": [
+  {
+  "name": "Software Engineer Intern",
+  "link": "software_engineer_intern",
+  "location": "Bangalore",
+  "weight": 1,
+  "tags": [
+  "internship"
+  ],
+  "date": "Aug. 2022 ‑ Present",
+  "short": "Currently working as a Software Engineer Intern at Anakin (YC21), responsible for developing a generic scraper for HTML-based content.",
+  "photos": []
+  },
+  {
+  "name": "Software Development Intern",
+  "link": "software_development_intern",
+  "location": "Bangalore",
+  "weight": 1,
+  "tags": [
+  "internship"
+  ],
+  "date": "June. 2022 ‑ Aug. 2022",
+  "short": "Worked as a Software Development Intern at The One World, helping design and develop a containerized fast API backend for a large-scale social media platform.",
+  "photos": []
+  },
+  {
+  "name": "Artificial Intelligence Intern",
+  "link": "artificial_intelligence_intern",
+  "location": "Bangalore",
+  "weight": 1,
+  "tags": [
+  "internship"
+  ],
+  "date": "Dec. 2021 ‑ May. 2022",
+  "short": "Worked as an Artificial Intelligence Intern at The One World, designing and building various types of models and developing a Dashboard using Dash Plotly.",
+  "photos": []
+  },
+  {
+  "name": "Machine Learning Intern",
+  "link": "machine_learning_intern",
+  "location": "Nagpur",
+  "weight": 1,
+  "tags": [
+  "internship"
+  ],
+  "date": "Aug. 2021 ‑ Nov. 2021",
+  "short": "Worked as a Machine Learning Intern at UFF Foods, responsible for ETL (Extract, Transform, and Load) for NLP and developing a Selenium scraper for Zomato.",
+  "photos": []
+  }
+  ]
+  }

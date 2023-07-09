@@ -1,0 +1,57 @@
+{ "projects": [
+  {
+  "name": "Savo - A Course Recommendation platform",
+  "link": "savo",
+  "date": "Oct. 2021 - Dec. 2021",
+  "short": "Developed a platform using Django, Html, CSS, Js, ML, AI, AWS, Automation that recommends and shows courses from major websites like YouTube, Udemy, etc.",
+  "status": "complete",
+  "weight": 1,
+  "tags": [
+  "tech"
+  ],
+  "photos": [
+  "/static/projects/savo/img.jpg"
+  ]
+  },
+  {
+  "name": "PayBae - Money Simplifying app",
+  "link": "paybae",
+  "date": "Dec. 2022 - Jan. 2023",
+  "short": "Contributed to the development of a mobile application using Flutter and Django, with PostgreSQL as the database. Implemented features such as account creation, transaction history, and notification alerts.",
+  "weight": 1,
+  "tags": [
+  "media"
+  ],
+  "photos": [
+  "/static/projects/paybae/img.jpg"
+  ]
+  },
+  {
+  "name": "Aishika - A CBT Bot",
+  "link": "aishika",
+  "date": "Jan. 2022 - Feb. 2022",
+  "short": "Developed a Cognitive Behavioral Therapy (CBT) chatbot using Python, NLP, Neural Networks, and Tkinter. Implemented a question-answering system that responds to the user's queries, assesses their mood, and offers personalized advice.",
+  "weight": 1,
+  "tags": [
+  "tech"
+  ],
+  "photos": [
+  "/static/projects/aishika/img.jpg"
+  ]
+  },
+  {
+  "name": "Covid detection using VGG-16",
+  "link": "covid-detection",
+  "date": "Aug. 2021 - Nov. 2021",
+  "short": "Built a model using Deep Learning and VGG-16 architecture to detect COVID-19 in lung X-ray images with 83% accuracy.",
+  "status": "complete",
+  "weight": 1,
+  "tags": [
+  "tech"
+  ],
+  "photos": [
+  "/static/projects/covid-detection/img.jpg"
+  ]
+  }
+  ]
+}

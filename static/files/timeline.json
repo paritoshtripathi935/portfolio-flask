@@ -1,0 +1,42 @@
+[
+  {
+  "year": "2022 - Present",
+  "events": [
+  {
+  "icon": "work",
+  "title": "Software Engineer Intern",
+  "content": "Currently working as a Software Engineer Intern at Anakin (YC21), responsible for developing a generic scraper for HTML-based content. Working primarily with Python and processing data through AWS, Pandas, and S3. Also built efficient libraries with documentation for team members to use."
+  }
+  ]
+  },
+  {
+  "year": "2022",
+  "events": [
+  {
+  "icon": "work",
+  "title": "Software Development Intern",
+  "content": "Worked as a Software Development Intern at The One World, helping design and develop a containerized fast API backend to support a large-scale social media platform. Utilized tools such as Docker, AWS, and PostgreSQL as the database."
+  }
+  ]
+  },
+  {
+  "year": "2021 - 2022",
+  "events": [
+  {
+  "icon": "work",
+  "title": "Artificial Intelligence Intern",
+  "content": "Worked as an Artificial Intelligence Intern at The One World, designing and building various types of models, including recommendation engines and rooftop age detection. Developed a Dashboard using Dash Plotly and deployed them using AWS EC2. Utilized technologies such as AWS, Yolo, Sklearn, CNN, and Dash."
+  }
+  ]
+  },
+  {
+  "year": "2021",
+  "events": [
+  {
+  "icon": "work",
+  "title": "Machine Learning Intern",
+  "content": "Worked as a Machine Learning Intern at UFF Foods, responsible for ETL (Extract, Transform, and Load) for NLP. Developed a Selenium scraper for Zomato."
+  }
+  ]
+  }
+  ]
